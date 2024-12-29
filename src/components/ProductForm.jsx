@@ -14,12 +14,12 @@ const ProductDetails = () => {
                 <div className="row g-3">
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                         
-                        <label htmlFor="" className="form-label">Product Name:</label>
+                        <label htmlFor="" className="form-label">Product Name</label>
                         <input type="text" className="form-control" />
                     </div>
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 
-                    <label htmlFor="" className="form-label">Category:</label>
+                    <label htmlFor="" className="form-label">Category</label>
                     <input type="text" className="form-control" />
                     </div>
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
@@ -29,12 +29,12 @@ const ProductDetails = () => {
                     </div>
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 
-                    <label htmlFor="" className="form-label">Manufacturing Date:</label>
+                    <label htmlFor="" className="form-label">Manufacturing Date</label>
                     <input type="date" className="form-control" placeholder="dd-mm-yyyy" />
                     </div>
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 
-                    <label htmlFor="" className="form-label">Expiry Date:</label>
+                    <label htmlFor="" className="form-label">Expiry Date</label>
                     <input type="date" className="form-control"  placeholder="dd-mm-yyyy" />
                     </div>
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
